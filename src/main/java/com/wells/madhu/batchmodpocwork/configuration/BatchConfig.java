@@ -1,7 +1,6 @@
 package com.wells.madhu.batchmodpocwork.configuration;
 
-import com.wells.madhu.batchmodpocwork.entity.TradeHistory;
-import com.wells.madhu.batchmodpocwork.entity.TradeHistoryDocument;
+
 import com.wells.madhu.batchmodpocwork.entity.Trades;
 import com.wells.madhu.batchmodpocwork.entity.TradesDocument;
 import com.wells.madhu.batchmodpocwork.listener.JobCompletionNotificationListener;
